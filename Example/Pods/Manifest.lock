@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyGuesturesView (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyGuesturesView (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyGuesturesView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftyGuesturesView: 44d14546f6e826012bd31b62428eef3025efb11b
+
+PODFILE CHECKSUM: d94d2abb603d120f2b4d75ad6065b869f9ec88e3
+
+COCOAPODS: 1.3.1

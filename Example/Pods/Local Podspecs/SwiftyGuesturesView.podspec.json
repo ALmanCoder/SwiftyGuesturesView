@@ -1,0 +1,22 @@
+{
+  "name": "SwiftyGuesturesView",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftyGuesturesView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ALmanCoder/SwiftyGuesturesView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ALmanCoder": "1099508857@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ALmanCoder/SwiftyGuesturesView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftyGuesturesView/Classes/**/*"
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftyGuesturesView_Example' do
+  pod 'SwiftyGuesturesView', :path => '../'
+
+  target 'SwiftyGuesturesView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
