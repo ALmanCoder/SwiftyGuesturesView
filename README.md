@@ -1,0 +1,2 @@
+# SwiftyGuesturesView
+init
