@@ -1,5 +1,5 @@
 PODS:
-  - SwiftyGuesturesView (0.1.0)
+  - SwiftyGuesturesView (1.0.0)
 
 DEPENDENCIES:
   - SwiftyGuesturesView (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SwiftyGuesturesView: 44d14546f6e826012bd31b62428eef3025efb11b
+  SwiftyGuesturesView: db1a23112805e626bfb0b4bec1023ad00cd020b0
 
 PODFILE CHECKSUM: d94d2abb603d120f2b4d75ad6065b869f9ec88e3
 
